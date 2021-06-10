@@ -1,0 +1,15 @@
+:root {
+  --font-color: #374b5c;
+  --primary-color: #00dbd0;
+  --nav-height: 100.52px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #f1fefe, rgba(241, 254, 254, 0));
+}

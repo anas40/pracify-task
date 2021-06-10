@@ -1,0 +1,9 @@
+.full-viewport {
+  min-height: 100vh;
+  padding: 120px 0 10px 0;
+  background-color: #fff;
+}
+.menu-container {
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}

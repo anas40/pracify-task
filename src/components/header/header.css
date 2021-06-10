@@ -1,0 +1,31 @@
+.logo-image {
+  height: 60px;
+}
+.brand-name {
+    font-weight: 700;
+    font-size: 30px;
+    padding: 12px;
+    color: var(--font-color);
+}
+.navbar-light .navbar-nav .nav-item.nav-link {
+  font-size: 16px;
+  color: var(--font-color);
+  padding: 8px 28px;
+  margin: 0;
+}
+.navbar-light .navbar-nav .nav-item.nav-link.active {
+  position: relative;
+}
+.navbar-light .navbar-nav .nav-item.nav-link.active::after {
+  position: absolute;
+  content: "";
+  height: 2px;
+  width: calc(100% - 56px);
+  left: 28px;
+  bottom: 0;
+  background-color: var(--primary-color);
+}
+.navbar-light .navbar-nav .nav-item.nav-link.primary-border {
+  border: solid 2px var(--primary-color);
+  border-radius: 8px;
+}
