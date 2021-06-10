@@ -1,4 +1,6 @@
-# About
+## Tech Used
+
+CRA, React bootstrap, Bootstrap, Css, Html
 
 ## Start
 
