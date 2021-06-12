@@ -4,6 +4,12 @@ CRA, React bootstrap, Bootstrap, Css, Html
 
 ## Start
 
+Step 1 : Intall dependencies with
+
+```npm install```
+
+Step 2 : Run the development server
+
 ```npm start```
 
 ## Big Screen
